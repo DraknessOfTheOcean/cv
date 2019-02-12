@@ -1,0 +1,22 @@
+#btn {
+  margin: auto;
+  border-radius: 3px;
+  border: 1px solid black;
+  background-color: rgb(51, 74, 177);
+  padding: 10px;
+  color: white;
+}
+#btn:hover {
+  margin: auto;
+  border-radius: 3px;
+  border: 1px solid black;
+  background-color: rgb(126, 139, 212);
+  padding: 10px;
+  color: white;
+}
+#box {
+  text-align: center;
+}
+.box {
+  text-align: center;
+}
